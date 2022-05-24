@@ -40,7 +40,8 @@ body {
 }
 
 .block_button {
-    padding: 20px;
+    padding: 15px;
+    font-size: 15px;
     width: fit-content;
     font-family: 'Lexend Deca', sans-serif;
     border-radius: 40px;
